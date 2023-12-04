@@ -1,0 +1,258 @@
+{
+  "project_info": {
+    "project_number": "474591405816",
+    "project_id": "otp-verify-4132d",
+    "storage_bucket": "otp-verify-4132d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474591405816:android:e7cf6d5a9d9eb4cab13d0d",
+        "android_client_info": {
+          "package_name": "com.example.aa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474591405816-hkblkfn0pekhapmvb6m2nu0n6h5i8fkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aa",
+            "certificate_hash": "5dff6b62d32fe1765081da300d424fb281a66cdf"
+          }
+        },
+        {
+          "client_id": "474591405816-hnoqsoigq3gissk57d1r0ipdo6mg9qmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8gzrxDvHRVTMRI9PUAag9XOVxf9Mda8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474591405816-hnoqsoigq3gissk57d1r0ipdo6mg9qmn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474591405816-dlqcdfn36ed697tlcii6vjkgmteesho9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsappclone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474591405816:android:e629c10781b496a7b13d0d",
+        "android_client_info": {
+          "package_name": "com.example.aaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474591405816-ocas4ccc7k1114td1rulolk3h58mmjtu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aaa",
+            "certificate_hash": "5dff6b62d32fe1765081da300d424fb281a66cdf"
+          }
+        },
+        {
+          "client_id": "474591405816-hnoqsoigq3gissk57d1r0ipdo6mg9qmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8gzrxDvHRVTMRI9PUAag9XOVxf9Mda8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474591405816-hnoqsoigq3gissk57d1r0ipdo6mg9qmn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474591405816-dlqcdfn36ed697tlcii6vjkgmteesho9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsappclone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474591405816:android:3943fb790e5cc640b13d0d",
+        "android_client_info": {
+          "package_name": "com.example.abc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474591405816-hnoqsoigq3gissk57d1r0ipdo6mg9qmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8gzrxDvHRVTMRI9PUAag9XOVxf9Mda8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474591405816-hnoqsoigq3gissk57d1r0ipdo6mg9qmn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474591405816-dlqcdfn36ed697tlcii6vjkgmteesho9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsappclone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474591405816:android:677ded3ac22738d9b13d0d",
+        "android_client_info": {
+          "package_name": "com.example.firbase_otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474591405816-ha792fkbgrg1qer7slblgfqb8ei7qq7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firbase_otp",
+            "certificate_hash": "0080cbd9612a65f4b0c9c17a587290047780df0e"
+          }
+        },
+        {
+          "client_id": "474591405816-hnoqsoigq3gissk57d1r0ipdo6mg9qmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8gzrxDvHRVTMRI9PUAag9XOVxf9Mda8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474591405816-hnoqsoigq3gissk57d1r0ipdo6mg9qmn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474591405816-dlqcdfn36ed697tlcii6vjkgmteesho9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsappclone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474591405816:android:10881a786b381bdab13d0d",
+        "android_client_info": {
+          "package_name": "com.example.mini_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474591405816-f8mbnqtu9o53iiltsclre0ekk8qun0qq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mini_project",
+            "certificate_hash": "0080cbd9612a65f4b0c9c17a587290047780df0e"
+          }
+        },
+        {
+          "client_id": "474591405816-hnoqsoigq3gissk57d1r0ipdo6mg9qmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8gzrxDvHRVTMRI9PUAag9XOVxf9Mda8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474591405816-hnoqsoigq3gissk57d1r0ipdo6mg9qmn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474591405816-dlqcdfn36ed697tlcii6vjkgmteesho9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsappclone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474591405816:android:2289dea0f58fc23ab13d0d",
+        "android_client_info": {
+          "package_name": "com.meet.wp.meet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474591405816-hnoqsoigq3gissk57d1r0ipdo6mg9qmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8gzrxDvHRVTMRI9PUAag9XOVxf9Mda8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474591405816-hnoqsoigq3gissk57d1r0ipdo6mg9qmn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474591405816-dlqcdfn36ed697tlcii6vjkgmteesho9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsappclone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
